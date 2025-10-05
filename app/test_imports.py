@@ -117,7 +117,7 @@ def check_file_structure():
         return False
 
 if __name__ == "__main__":
-    print("🌊 RAG Intelligence Hub - Import Test")
+    print("🥀🛰️💻 RAG Intelligence Hub - Import Test")
     print("=" * 50)
 
     # Test file structure

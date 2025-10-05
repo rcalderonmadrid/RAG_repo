@@ -268,7 +268,7 @@ def render_dashboard():
     """Render main dashboard"""
     st.markdown("""
     <div class="main-header">
-        <h1>🌊 RAG Intelligence Hub</h1>
+        <h1>🥀🛰️💻 RAG Intelligence Hub</h1>
         <p>Advanced Document Intelligence & Conversational AI Platform</p>
     </div>
     """, unsafe_allow_html=True)

@@ -288,4 +288,4 @@ This project is designed for educational and research purposes. Please ensure co
 
 ---
 
-**🌊 RAG Intelligence Hub** - Your complete document intelligence solution!
+**🥀🛰️💻 RAG Intelligence Hub** - Your complete document intelligence solution!
