@@ -1,0 +1,32 @@
+{
+  "llm_model": "qwen3:4b",
+  "embedding_model": "all-minilm:latest",
+  "temperature": 0.2,
+  "max_tokens": 4000,
+  "chunk_size": 1000,
+  "chunk_overlap": 50,
+  "retrieval_k": 3,
+  "persist_directory": "chroma_db",
+  "supported_file_types": [
+    ".pdf",
+    ".txt",
+    ".docx",
+    ".doc",
+    ".md"
+  ],
+  "max_file_size_mb": 50,
+  "max_files_per_upload": 10,
+  "theme": "light",
+  "items_per_page": 20,
+  "auto_save": true,
+  "show_processing_time": true,
+  "log_level": "INFO",
+  "enable_analytics": true,
+  "ollama_url": "http://localhost:11434",
+  "conversation_retention_days": 90,
+  "enable_source_citations": true,
+  "enable_conversation_export": true,
+  "enable_document_preview": true,
+  "enable_search_highlighting": true,
+  "streaming_responses": true
+}

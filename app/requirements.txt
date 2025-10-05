@@ -1,0 +1,64 @@
+# Core Streamlit and UI
+streamlit>=1.28.0
+plotly>=5.15.0
+pandas>=2.0.0
+
+# LangChain and RAG components
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-core>=0.1.0
+langchain-ollama>=0.1.0
+
+# Vector database
+chromadb>=0.4.0
+
+# Document processing
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+unstructured>=0.10.0
+
+# PDF processing (alternative to PyPDF2 for better extraction)
+pypdf>=3.15.0
+
+# Text processing and NLP
+sentence-transformers>=2.2.0
+tiktoken>=0.5.0
+
+# HTTP requests for Ollama
+requests>=2.31.0
+
+# File handling and utilities
+pathlib2>=2.3.7
+python-magic>=0.4.27
+
+# Logging and configuration
+pyyaml>=6.0.1
+
+# Date and time handling
+python-dateutil>=2.8.2
+
+# Type hints (for better code quality)
+typing-extensions>=4.7.0
+
+# Optional: For enhanced PDF processing
+pdfplumber>=0.9.0
+PyMuPDF>=1.23.0
+
+# Optional: For better document parsing
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Optional: For advanced text processing
+nltk>=3.8.0
+spacy>=3.6.0
+
+# Optional: For language detection
+langdetect>=1.0.9
+
+# Optional: For better embeddings (if not using Ollama embeddings)
+# openai>=1.0.0
+# huggingface-hub>=0.16.0
+
+# Development and debugging (optional)
+# streamlit-debugger>=0.1.0
+# streamlit-profiler>=0.1.0
