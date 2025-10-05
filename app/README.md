@@ -1,4 +1,4 @@
-# 🌊 RAG Intelligence Hub
+# 🥀🛰️💻 RAG Intelligence Hub
 
 An advanced Retrieval Augmented Generation (RAG) system built with Streamlit, offering comprehensive document management, conversational AI, and analytics capabilities.
 
